@@ -1,2 +1,4 @@
-# git-digital-course
-aula de git do Ada
+# CURSO DIGITAL: GIT/VERCIONAMENTO
+## gravando mudanças no repositório
+
+## salvando modificações no git
